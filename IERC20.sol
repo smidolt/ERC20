@@ -11,9 +11,9 @@ interface IERC20 {
 
     function totalSupply() external view returns(uint); //STANDART total supply
 
-    function balanceOf(address account) external view returns(uint);//STANDART shows the number of our tokens in the desired account
+    function balanceOf(address _account) external view returns(uint);//STANDART shows the number of our tokens in the desired account
 
-    function transfer(address to, uint amount) external; //STANDART alternative to transfer function for uour tokens
+    function transfer(address _to, uint _amount) external; //STANDART alternative to transfer function for uour tokens
 
     function allowance(address _owner, address spender) external view returns(uint);//STANDART  to allow another account to grab our tokens
 
