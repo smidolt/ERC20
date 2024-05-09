@@ -1,5 +1,3 @@
-## Projects README
-
 This repository contains comprehensive demonstrations of various standards, features, and functionalities within the Ethereum ecosystem. It serves as a valuable resource for developers looking to explore and implement these elements in their own smart contract projects.
 
 ## Projects Overview
