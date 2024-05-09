@@ -1,5 +1,3 @@
-# Projects README
-
 ## Demonstration of Publication and Verification Smart Contracts in the Sepolia Test Network
 
 ### Overview
