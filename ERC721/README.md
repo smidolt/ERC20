@@ -1,5 +1,3 @@
-# Projects README
-
 ## ERC721 NFT
 
 ### Overview
