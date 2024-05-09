@@ -1,25 +1,24 @@
-# Projects README
+## Projects README
 
-## Project 1: Demonstration of Publication and Verification Smart Contracts in the Sepolia Test Network
+This repository contains comprehensive demonstrations of various standards, features, and functionalities within the Ethereum ecosystem. It serves as a valuable resource for developers looking to explore and implement these elements in their own smart contract projects.
 
-### Overview
-This project demonstrates the implementation of publication and verification smart contracts in the Sepolia test network. The smart contracts are designed to facilitate secure publication and verification of documents, ensuring transparency and immutability of records.
+## Projects Overview
 
-![Screenshot 2024-05-06 at 12 02 01 pm](https://github.com/smidolt/ERC20/assets/103376685/e35b8399-b90f-41d8-853a-c0f0c42cb472)
+The repository includes the following projects:
 
-![Screenshot 2024-05-06 at 12 03 30 pm](https://github.com/smidolt/ERC20/assets/103376685/686c2d1e-0cce-403a-a466-a321a309da0f)
+**Project 1: Publication and Verification Smart Contracts**
 
+This project demonstrates the implementation and utilization of smart contracts for secure publication and verification smart contracts on the different networks. 
 
----
+**Project 2: ERC20 Token**
 
-## Project 2: ERC20 Token
+This project implements a fully functional ERC20 token compliant with the Ethereum token standard. It allows for the secure and efficient transfer of value on the Ethereum blockchain.
 
-### Overview
-This project implements an ERC20 token, compliant with the Ethereum token standard. The token serves as a digital asset on the Ethereum blockchain, allowing for secure and efficient transfer of value.
+**Project 3: ERC721 NFT**
 
-### Features
-- **ERC20 Compliance**: Adheres to the ERC20 standard, ensuring compatibility with Ethereum wallets and exchanges.
-- **Token Transfer**: Allows users to transfer tokens between Ethereum addresses.
-- **Token Approval**: Supports the approval mechanism for delegated token transfers.
+This project realizes the ERC721 non-fungible token standard, enabling the creation and management of unique digital assets on the Ethereum blockchain.
 
 
+## Getting Started
+
+To explore the projects and delve deeper into their functionalities, simply clone the repository and review the respective project folders. 
